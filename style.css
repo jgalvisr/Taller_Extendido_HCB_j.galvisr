@@ -1,0 +1,147 @@
+#c_title {
+    background-color: #FB5607;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 30px;
+}
+
+#c_subtitle {
+    background-color: #3A86FF;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 30px;
+}
+
+#c_img1 {
+    background-color: black;
+}
+
+#c_img2 {
+    background-color: #FB8907;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#c_img3 {
+    background-color: #4A59FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#c_it1 {
+    background-color: #FFD166;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#c_it2 {
+    background-color: #EF476F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#c_it3 {
+    background-color: #06D6A0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#c_it4 {
+    background-color: #118AB2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#c_it5 {
+    background-color: #073B4C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#c_it6 {
+    background-color: #8338EC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#c_cont1 {
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    text-align: justify;
+}
+
+#c_cont2 {
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    background-color: #DADEDF;
+    /*
+    display: block;
+    align-items: center;*/
+}
+
+#c_cont3 {
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    background-color: #C3D7E1;
+}
+
+#c_cont4 {
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 1%;
+    background-color: #073b4c;
+    color: white;
+    text-align: center;
+    /*
+    display: block;
+    align-items: center;*/
+}
+
+#cita {
+    font-size: smaller;
+    color: #333333;
+}
+
+#miembros {
+    padding-bottom: 40px;
+}
+
+#albumes {
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+#link_wiki {
+    text-align: right;
+}
+
+.icon {
+    width: 30px;
+}
+
+.rol_miembro {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.nom_album {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
